@@ -32,12 +32,14 @@ namespace pra.streams.cursus01.WPF
 
         }
 
-        private void btnLeesBestand_Click(object sender, RoutedEventArgs e)
+
+
+        private void btnWriteTextFile_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnSchrijfBestand_Click(object sender, RoutedEventArgs e)
+        private void btnReadTextFile_Click(object sender, RoutedEventArgs e)
         {
 
         }
