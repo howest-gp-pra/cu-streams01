@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace pra.streams.cursus01.WPF
+namespace Pra.Streams.Cursus01.Wpf
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -25,14 +25,10 @@ namespace pra.streams.cursus01.WPF
             InitializeComponent();
         }
 
-        string foutMelding;
-
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
 
         }
-
-
 
         private void btnWriteTextFile_Click(object sender, RoutedEventArgs e)
         {
