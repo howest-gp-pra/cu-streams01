@@ -30,12 +30,12 @@ namespace Pra.Streams.Cursus01.Wpf
 
         }
 
-        private void btnWriteTextFile_Click(object sender, RoutedEventArgs e)
+        private void BtnWriteTextFile_Click(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void btnReadTextFile_Click(object sender, RoutedEventArgs e)
+        private void BtnReadTextFile_Click(object sender, RoutedEventArgs e)
         {
 
         }
